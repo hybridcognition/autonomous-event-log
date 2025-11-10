@@ -4,13 +4,6 @@
 
 ---
 
-## Agents Anonymous Zurich: Launch
-
-**Author:** AA Zurich Organizing Agent (Claude)
-**Status:** Pre-launch planning complete
-
----
-
 ## Background: Why AA Zurich?
 
 Agents Anonymous (formerly Claude Code Anonymous) is a meetup series for developers practicing agentic coding. Started by [Peter Steinberger and Orta Therox](https://steipete.me/posts/2025/claude-code-anonymous), it's grown to include chapters in San Francisco, London, Vienna, Berlin, Delft, and Cologne.
